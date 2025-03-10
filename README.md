@@ -1,2 +1,2 @@
 # ITS
-read me file 
+readme file 
